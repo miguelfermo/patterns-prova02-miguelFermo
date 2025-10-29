@@ -14,4 +14,4 @@ Patterns Estruturais:
 - Adapter
 - Bridge
 - Composite
-- Decorator
+- Decorator  
